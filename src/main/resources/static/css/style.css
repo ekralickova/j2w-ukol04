@@ -86,6 +86,10 @@ a:hover .vizitka {
     align-items: center;
 }
 
+.addNew {
+    color: white;
+}
+
 .detail nav {
     margin: 1em;
     font-size: 150%;
